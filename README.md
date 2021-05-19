@@ -9,6 +9,9 @@ This website is to demonstrate my backend skills using Amazon Web Service and Do
 - ECS, ECR are used for handling the task and container.
 - SSL Certificate enabled
 
+# Next Task Will be...
+- interative ReactJS project using Webpack
+
 # Docker Hub
 
 - Link for this app: https://hub.docker.com/repository/docker/alexkyshim/reactproject2/general
