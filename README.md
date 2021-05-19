@@ -6,7 +6,7 @@ This website is to demonstrate backend skills using Amazon Web Service and Docke
 
 -ECS, ECR are used for handling the task and container.
 
-Reference (Brian Design): https://www.youtube.com/watch?v=E1E08i2UJGI
+Reference (Brian Design on Youtube): https://www.youtube.com/watch?v=E1E08i2UJGI
 
 # Getting Started with Create React App
 
