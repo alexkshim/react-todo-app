@@ -2,10 +2,18 @@
 
 *** You can visit the website on my domain: https://www.litchibyte.com ***
 
-This website is to demonstrate backend skills using Amazon Web Service and Docker.
+This website is to demonstrate my backend skills using Amazon Web Service and Docker.
 
+- Based on the reference below, I built this frontend freatures.
 - It is deployed on aws using ec2 load balancer.
 - ECS, ECR are used for handling the task and container.
+
+# Docker Hub
+
+- Link for this app: https://hub.docker.com/repository/docker/alexkyshim/reactproject2/general
+- pull command: docker pull alexkyshim/reactproject2:latest
+
+# Reference for frontend
 
 Reference (Brian Design on Youtube): https://www.youtube.com/watch?v=E1E08i2UJGI
 
