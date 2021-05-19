@@ -1,3 +1,11 @@
+*** You can visit the website on my domain: https://litchibyte.com ***
+
+This website is to demonstrate backend skills using Amazon Web Service and Docker.
+It is deployed on aws using ec2 load balancer.
+ECS, ECR are used for handling the task and container.
+
+Reference (Brian Design): https://www.youtube.com/watch?v=E1E08i2UJGI
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
