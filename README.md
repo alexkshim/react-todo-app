@@ -8,6 +8,10 @@ This website is to demonstrate backend skills using Amazon Web Service and Docke
 
 Reference (Brian Design on Youtube): https://www.youtube.com/watch?v=E1E08i2UJGI
 
+# To deploy your container
+
+Use buildx feature to build for multiple platforms according to the architecture you will apply.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
