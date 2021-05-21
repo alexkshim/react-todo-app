@@ -19,7 +19,7 @@ This website is to demonstrate my backend skills using Amazon Web Service and Do
 
 # Reference for frontend
 
-Reference (Brian Design on Youtube): https://www.youtube.com/watch?v=E1E08i2UJGI
+Front-end reference (Brian Design on Youtube): https://www.youtube.com/watch?v=E1E08i2UJGI
 
 # To deploy your container
 
