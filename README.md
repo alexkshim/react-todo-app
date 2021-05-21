@@ -10,7 +10,7 @@ This website is to demonstrate my backend skills using Amazon Web Service and Do
 - SSL Certificate enabled
 
 # Next Task Will be...
-- interative ReactJS project using Webpack
+- interactive ReactJS project using Webpack
 
 # Docker Hub
 
