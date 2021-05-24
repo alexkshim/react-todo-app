@@ -4,9 +4,9 @@
 
 This website is to demonstrate my backend skills using Amazon Web Service and Docker.
 
-- Based on the reference below, I built this frontend freatures.
+- Based on the reference below, I built frontend freatures.
 - It is deployed on aws using ec2 load balancer.
-- ECS, ECR are used for handling the task and container.
+- ECS and ECR are used for handling the task and container.
 - SSL Certificate enabled
 
 # Next Task Will be...
