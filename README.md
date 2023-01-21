@@ -1,6 +1,6 @@
 # Introduction
 
-*** You can visit the website on my domain: https://www.litchibyte.com ***
+*** You can visit the website on my domain: https://www.litchibyte.com *** (Currently Closed)
 
 This website is to demonstrate my backend skills using Amazon Web Service and Docker.
 
